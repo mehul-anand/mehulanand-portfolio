@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
 .h2 {
     color: #34D399;
 }
@@ -17,4 +23,13 @@
     color:#34D399;
     border-radius: 0.5rem;
     border: 1px solid #34D399 ;
+}
+
+.container{
+    padding: 0rem 1rem;
+}
+
+.container-centre{
+    max-width: 535px;
+    margin: auto;
 }
