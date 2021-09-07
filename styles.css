@@ -1,30 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
 
+
+
+/*#10B981 #1BC48C 2 colors for primary color for the site  choose one */
+
+/*Root element fot the entire page*/
+
+:root {
+    --primary-color:#1BC48C;
+}
+
+/*Font :- Lato*/
+
 body{
     font-family: 'Lato', sans-serif;
 }
 
-.h2 {
-    color: #34D399;
-}
-
-.link{
-    text-decoration: none;
-    padding: 1ren 2rem;
-}
-
-.prim-link {
-    background-color:#34D399;
-    border-radius: 0.5rem;
-    color: white;
-}
-
-.sec-link {
-    color:#34D399;
-    border-radius: 0.5rem;
-    border: 1px solid #34D399 ;
-}
-
+/*containers*/
 .container{
     padding: 0rem 1rem;
 }
@@ -32,4 +24,27 @@ body{
 .container-centre{
     max-width: 535px;
     margin: auto;
+}
+
+/*we don't need one for fluid container*/
+
+/*Links*/
+
+.link{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+/*Primary Link */
+.prim-link{
+    background-color: var(--primary-color);
+    border-radius: 0.5rem;
+    color: ivory;
+}
+
+/*Secondary Link */
+.sec-link{
+    color:var(--primary-color);
+    border-radius:0.5rem;
+    border: 1px solid var(--primary-color);
 }
