@@ -60,3 +60,17 @@ the format is :-*/
 /*1)top right bottom left -- 1ren 2ren 1ren 2ren
   2)top (left,right) bottom -- 1ren 2ren 1ren
   3)(top,bottom) (left,right) -- 1ren 2ren*/
+
+ /*Lists*/
+
+ /*non-bulleted list*/
+
+.list-non-bullet{
+      list-style: none;
+  }
+
+/*list-inline*/
+.list-inline{
+    display: inline;
+    padding:0rem 0.5rem;
+}
