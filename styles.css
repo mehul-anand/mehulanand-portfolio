@@ -48,3 +48,15 @@ body{
     border-radius:0.5rem;
     border: 1px solid var(--primary-color);
 }
+
+/*hr*/
+/*here I did not use class*/
+/*I used hr tag (HTML) here because I wanted to change all hr tags*/
+hr{
+    margin: 1rem 0rem
+}
+/*in padding and margin
+the format is :-*/
+/*1)top right bottom left -- 1ren 2ren 1ren 2ren
+  2)top (left,right) bottom -- 1ren 2ren 1ren
+  3)(top,bottom) (left,right) -- 1ren 2ren*/
