@@ -74,3 +74,23 @@ the format is :-*/
     display: inline;
     padding:0rem 0.5rem;
 }
+
+/*Navigation*/
+.nav-bar{
+    background-color: var(--primary-color);
+    color: ivory;
+    border-bottom-left-radius: 0.5rem;
+    padding: 0.3rem 1rem 1rem 1rem;
+}
+.nav-bar .link {
+    color:ivory;
+    font-size: 1ren;
+}
+
+.nav-pills{
+    text-align: right;
+}
+.nav-bar .link-active{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
