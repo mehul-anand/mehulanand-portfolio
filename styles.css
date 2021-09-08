@@ -119,9 +119,9 @@ the format is :-*/
     padding: 2rem;
 }
 
-.section h1{
+/*.section h1{
     text-align: center;
-}
+}*/
 
 .off-white{
     background-color:var(--off-white) ;
