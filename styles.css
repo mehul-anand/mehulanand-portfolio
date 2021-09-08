@@ -16,6 +16,8 @@
 
 body{
     font-family: 'Lato', sans-serif;
+    margin: 0px;
+    /*remove default margin*/
 }
 
 /*containers*/
@@ -34,7 +36,7 @@ body{
 
 .link{
     text-decoration: none;
-    padding: 0.5rem 1rem;
+    padding: 0.8rem 2rem;
 }
 
 /*Primary Link */
@@ -125,4 +127,23 @@ the format is :-*/
 
 .off-white{
     background-color:var(--off-white) ;
+}
+
+/*Footer*/
+footer{
+    background-color: var(--primary-color);
+    color: ivory;
+    padding: 2rem 1rem;
+    border-top-right-radius: 00.5rem;
+    text-align: center;
+}
+
+footer .link{
+    color: ivory;
+    font-size: 1.7rem;
+}
+
+footer ul{
+    padding-inline-start: 0px;
+    /*this is to remove the default padding*/
 }
