@@ -110,7 +110,7 @@ the format is :-*/
     margin: auto;
 }
 .hero .hero-heading{
-    font-size: 3.5rem;
+    font-size: 3.rem;
     color:var(--dark-grey) ;
     text-align:center;
     padding-top: 1rem;
@@ -121,9 +121,9 @@ the format is :-*/
     padding: 2rem;
 }
 
-/*.section h1{
+.section h1{
     text-align: center;
-}*/
+}
 
 .off-white{
     background-color:var(--off-white) ;
