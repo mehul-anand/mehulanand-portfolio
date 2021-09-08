@@ -9,6 +9,7 @@
 :root {
     --primary-color:#1BC48C;
     --dark-grey:#6B7280;
+    --off-white:#E5E7EB;
 }
 
 /*Font :- Lato*/
@@ -96,6 +97,8 @@ the format is :-*/
     font-size: 1.1rem;
 }
 
+/*Header*/
+
 .hero{
     padding: 2rem;
 }
@@ -109,4 +112,17 @@ the format is :-*/
     color:var(--dark-grey) ;
     text-align:center;
     padding-top: 1rem;
+}
+
+/*Sections*/
+.section{
+    padding: 2rem;
+}
+
+.section h1{
+    text-align: center;
+}
+
+.off-white{
+    background-color:var(--off-white) ;
 }
