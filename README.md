@@ -10,6 +10,9 @@ For now I know :
 2. NodeJS
 3. Repl.it
 4. CHALK
+5. HTML 5
+6. css 3
+7. ReactJs
 
 
 
