@@ -11,7 +11,7 @@ For now I know :
 3. Repl.it
 4. CHALK
 5. HTML 5
-6. css 3
+6. CSS 3
 7. ReactJs
 
 
