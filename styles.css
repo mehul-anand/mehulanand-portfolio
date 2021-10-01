@@ -30,6 +30,10 @@ body{
     margin: auto;
 }
 
+.container-centre h1{
+    font-size: 2.2rem;
+}
+
 /*we don't need one for fluid container*/
 
 /*Links*/
@@ -71,6 +75,7 @@ the format is :-*/
 
 .list-non-bullet{
       list-style: none;
+      padding: 0px;
   }
 
 /*list-inline*/
