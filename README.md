@@ -1,18 +1,31 @@
-# My portfolio
+# My portfolio site
 
-Hey Welcome to my Portfolio!
+## Made using :- 
+- HTML 5
+- CSS 3
 
-I am going to learn HTML and CSS with Tanay Sir on YouTube
+## Contents 
 
-For now I know :
+- Home
+- Projects
+- Blogs  
+- Nav Bar w/ links to Home,Projects and Blogs
+- Footer w/ social media links
 
-1. Javascript
-2. NodeJS
-3. Repl.it
-4. CHALK
-5. HTML 5
-6. CSS 3
-7. ReactJs
+### Home
+
+- Technologies I am familiar with
+- Links to my Projects and Blogs
+
+### Projects
+
+- markOne to mark14 
+- this includes project links and github repo link
+
+### Blogs
+
+- Links to all my blogs with a call-to-action button to my **Hasnode**
+
 
 
 
